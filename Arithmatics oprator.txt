@@ -1,0 +1,6 @@
+<?php
+$a=24;
+$b=65;
+echo "Arithematic oprator <br>";
+echo $a+$b,"<br>";
+?>

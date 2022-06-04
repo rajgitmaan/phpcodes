@@ -1,0 +1,14 @@
+<?php
+
+// For Input
+// Hello World
+
+$a=(int)readline("Enter an integer"); 
+//echo $a;
+
+$b=(int)readline("Enter another integer");
+//echo $b;
+
+$sum = $a+$b;
+//echo $sum;
+?>
